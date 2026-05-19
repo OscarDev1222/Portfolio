@@ -80,11 +80,10 @@ npm run preview
 
 ## Authors
 
-👤 **roman Ndunda**
+👤 **Oscar Lee**
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@romanndunda](https://twitter.com/romanndunda)
-- LinkedIn: [roman Ndunda](https://www.linkedin.com/in/roman-ndunda-b13a95107/)
+- Gmail: [michaelvillagrana55@gmail.com]
+- Telegram: [OscarLee1222]
 
 ## Feedback and Contributions
 
